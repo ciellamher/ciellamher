@@ -11,7 +11,7 @@ I find joy in being creative with designing software, user interfaces, and new t
 Wherever I am and whatever I do, I keep an open mind and always strive to do my very best. I'm always on the lookout for new ways to learn and grow, and I approach each opportunity with a positive and appreciative mindset.
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [graciellajimenez.vercel.app](https://graciellajimenez.vercel.app/)
+* 🖥️  See my portfolio at [graciellajimenez.com](https://graciellajimenez.com/)
 * ✉️  You can contact me at [work.gmdjimenez@gmail.com](mailto:work.gmdjimenez@gmail.com)
 
 ### Skills
