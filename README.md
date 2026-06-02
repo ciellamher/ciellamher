@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Graciella Jimenez 👋</h1>
+  <h1>Hi, I'm Graciella Jimenez</h1>
   
   <!-- Animated Typing Heading -->
   <a href="https://graciellajimenez.com">
@@ -24,7 +24,7 @@
 
 ---
 
-### 📖 About Me
+### About Me
 
 Hi! I'm Graciella, a Computer Science student at Holy Angel University. I love exploring and embracing new and innovative ideas in different fields. I love the fashion, art, and culture as much as I love the beauty of the field of technology, science, and business.
 
@@ -32,24 +32,24 @@ I find joy in being creative with designing software, user interfaces, and new t
 
 Wherever I am and whatever I do, I keep an open mind and always strive to do my very best. I'm always on the lookout for new ways to learn and grow, and I approach each opportunity with a positive and appreciative mindset.
 
-* 🌍  Based in **Pampanga, Philippines**
-* 🖥️  See my portfolio at: **[graciellajimenez.com](https://graciellajimenez.com/)**
-* ✉️  You can contact me at: **[work.gmdjimenez@gmail.com](mailto:work.gmdjimenez@gmail.com)**
+* Based in **Pampanga, Philippines**
+* See my portfolio at: **[graciellajimenez.com](https://graciellajimenez.com/)**
+* You can contact me at: **[work.gmdjimenez@gmail.com](mailto:work.gmdjimenez@gmail.com)**
 
 ---
 
-### 🏆 Featured Projects
+### Featured Projects
 
-* 🚗 **[IntelliAIDrive: Autonomous Driving Agent](https://github.com/ciellamher/IntelliAIDrive)** – An autonomous driving research platform that combines real-time computer vision, reinforcement learning, and simulation-driven evaluation to train and interrogate an intelligent vehicle agent under dynamic road conditions.
-* 🎙️ **[Lumo](https://github.com/darknecrocities/Lumo)** – Developed an innovative navigation solution leveraging AI to assist users with route optimization and accessibility. Utilized Python for backend logic and Next.js to build a responsive, user-friendly frontend interface.
-* ⚡ **[Algorithmic Memory Allocation Simulator](https://github.com/ciellamher/Virtual-Paging-Algorithms-Simulation)** – A high-fidelity Streamlit simulation environment for operating system memory management, built to visualize page replacement mechanics, frame allocation behavior, and fault patterns with Gemini-powered contextual analysis layered on top.
-* 🩺 **[peeView](https://github.com/darknecrocities/peeview)** – Created a medical interpretation tool designed to analyze data using Artificial Intelligence for preliminary health insights. Integrated modern web technologies including React and Tailwind CSS for a clean, accessible user experience.
+* **[IntelliAIDrive: Autonomous Driving Agent](https://github.com/ciellamher/IntelliAIDrive)** – An autonomous driving research platform that combines real-time computer vision, reinforcement learning, and simulation-driven evaluation to train and interrogate an intelligent vehicle agent under dynamic road conditions.
+* **[Lumo](https://github.com/darknecrocities/Lumo)** – Developed an innovative navigation solution leveraging AI to assist users with route optimization and accessibility. Utilized Python for backend logic and Next.js to build a responsive, user-friendly frontend interface.
+* **[Algorithmic Memory Allocation Simulator](https://github.com/ciellamher/Virtual-Paging-Algorithms-Simulation)** – A high-fidelity Streamlit simulation environment for operating system memory management, built to visualize page replacement mechanics, frame allocation behavior, and fault patterns with Gemini-powered contextual analysis layered on top.
+* **[peeView](https://github.com/darknecrocities/peeview)** – Created a medical interpretation tool designed to analyze data using Artificial Intelligence for preliminary health insights. Integrated modern web technologies including React and Tailwind CSS for a clean, accessible user experience.
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### Tech Stack & Toolkit
 
-#### 🌐 Frontend & Mobile Development
+#### Frontend & Mobile Development
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -59,7 +59,7 @@ Wherever I am and whatever I do, I keep an open mind and always strive to do my 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ⚙️ Backend, Systems & Databases
+#### Backend, Systems & Databases
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -67,7 +67,7 @@ Wherever I am and whatever I do, I keep an open mind and always strive to do my 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### 🎨 Creative Design & Productivity
+#### Creative Design & Productivity
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -77,20 +77,8 @@ Wherever I am and whatever I do, I keep an open mind and always strive to do my 
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### GitHub Activity & Statistics
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ciellamher&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciellamher&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciellamher&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciellamher&amp;stroke=ffffff&amp;background=1c1917&amp;ring=0891b2&amp;fire=0891b2&amp;currStreakNum=ffffff&amp;currStreakLabel=0891b2&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" alt="Streak Stats" />
+</div>
