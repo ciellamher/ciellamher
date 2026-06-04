@@ -61,6 +61,7 @@ Wherever I am and whatever I do, I keep an open mind and always strive to do my 
 
 #### Backend, Systems & Databases
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-113547?style=for-the-badge&logo=mysql&logoColor=white)
@@ -79,6 +80,18 @@ Wherever I am and whatever I do, I keep an open mind and always strive to do my 
 
 ### GitHub Activity & Statistics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciellamher&amp;stroke=ffffff&amp;background=1c1917&amp;ring=0891b2&amp;fire=0891b2&amp;currStreakNum=ffffff&amp;currStreakLabel=0891b2&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" alt="Streak Stats" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ciellamher&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciellamher&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciellamher&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+    </td>
+  </tr>
+</table>
