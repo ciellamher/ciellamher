@@ -1,14 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=250&section=header&text=Welcome%20to%20Graciella's%20GitHub&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20&%20Computer%20Vision%20%7C%20Full-Stack%20Web&descAlignY=51&descAlign=62" />
+  <h3><strong>Graciella Jimenez</strong></h3>
+  <p>Software Engineer - Philippines</p>
+  <br />
+  <p>
+    <a href="#about-me">About</a> &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/ciellamher?tab=repositories">Projects</a> &nbsp;&nbsp;&nbsp;
+    <a href="https://graciellajimenez.com">Contact</a> &nbsp;&nbsp;&nbsp;
+    <a href="#">Back to top</a>
+  </p>
+  <p>
+    <a href="https://github.com/ciellamher">GitHub</a> &nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/graciellajimenez">LinkedIn</a> &nbsp;&nbsp;&nbsp;
+    <a href="https://graciellajimenez.com">Website</a>
+  </p>
+  <br />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=graciellajimenez&fontAlignY=70&fontSize=80&fontColor=ffffff" alt="graciellajimenez" />
 </div>
-
-<br />
-
-<h3 align="center">🔗 Connect with me</h3>
-<p align="center">
-  <a href="https://graciellajimenez.com" target="_blank"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/graciellajimenez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
 
 <br />
 
