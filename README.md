@@ -41,31 +41,31 @@ Wherever I am and whatever I do, I keep an open mind and always strive to do my 
 ### Tech Stack & Toolkit
 
 #### Frontend & Mobile Development
-![JavaScript](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=next.dot_js&logoColor=white)
-![Vite](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=vite&logoColor=white)
-![Dart](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=Flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-1c1917?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-1c1917?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-1c1917?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1c1917?style=for-the-badge&logo=next.dot_js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-1c1917?style=for-the-badge&logo=vite&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-1c1917?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-1c1917?style=for-the-badge&logo=Flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-1c1917?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Backend, Systems & Databases
-![Python](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=java&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=Streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/python-1c1917?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-1c1917?style=for-the-badge&logo=java&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1c1917?style=for-the-badge&logo=Streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-1c1917?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-1c1917?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-1c1917?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1c1917?style=for-the-badge&logo=linux&logoColor=white)
 
 #### Creative Design & Productivity
-![Notion](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/-1c1917?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-1c1917?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-1c1917?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/adobe%20photoshop-1c1917?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/adobe%20illustrator-1c1917?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/adobe%20after%20effects-1c1917?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-1c1917?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
 
 ---
 
