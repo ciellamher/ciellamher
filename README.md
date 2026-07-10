@@ -72,7 +72,7 @@ Wherever I am and whatever I do, I keep an open mind and always strive to do my 
 ### GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ciellamher&show_icons=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ciellamher&show_icons=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciellamher&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=cccccc&sideLabels=cccccc&dates=cccccc&hide_border=true" alt="Streak Stats" />
 </p>
 
