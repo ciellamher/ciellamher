@@ -3,8 +3,11 @@
   
   <!-- Animated Typing Heading -->
   <a href="https://graciellajimenez.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1500&color=0a0a0a&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Frontend+Developer;Notion+Campus+Leader;Workflow+Automation+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1500&color=0a0a0a&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Frontend+Developer;Notion+Campus+Leader" alt="Typing SVG" />
   </a>
+  <p>
+    <a href="https://graciellajimenez.com"><strong>graciellajimenez.com</strong></a>
+  </p>
 
   <p align="center">
     <a href="https://linkedin.com/in/ciellamher" target="_blank">
